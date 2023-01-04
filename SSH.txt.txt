@@ -1,10 +1,15 @@
  1) open git bash 
 
- 2) put -->  ssh-keygen -t ed25519 -C "ankushsingh_se21a13_54@dtu.ac.in"
+ 2) put -->  ssh-keygen
 
  3) phir enter karte rhna [aagr  dubra key ban rhe ho to over write ke liye y/n me se koi ek select kar lena]
-    enter karte rha jab tak koi square box me picture si na ban aa jaye
+    enter karte rha jab tak koi square box me picture si na ban aa jaye ( may be kabhi kabhi nhi dikhti )
   
- 4)  put --> cat ~/ .ssh/id_ed25519.pub
+ 4)  put --> cat ~/.ssh/id_rsa.pub
+
   
   5) neeche key show kar rhi hai ( aagr na show notepad "ctrl+v" kar dekh lo show ho jayegi) 
+
+
+
+
