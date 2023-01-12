@@ -1,5 +1,5 @@
 
-// Given an integer N, find and return the count of minimum numbers required
+// Given an integer N, find and return the count of minimum numbers required .
 //  to represent N as a sum of squares.
 #include <bits/stdc++.h>
 using namespace std;
